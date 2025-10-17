@@ -9,5 +9,5 @@
 - Tên sản phẩm: **Ứng dụng game trên điện thoại Animal Restaurant**
 
 ## Mô tả tài liệu
-- KTPM.1_Nhom5_GameAnimalRestaurant.docx: Tài liệu kế hoạch kiểm thử phần mềm
+- KTPM.1_Nhom5_GameAnimalRestaurant.pdf: Tài liệu kế hoạch kiểm thử phần mềm
 - test-case: Tài liệu kiểm thử phần mềm

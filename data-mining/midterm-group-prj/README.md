@@ -10,10 +10,10 @@
 
 ## Mô tả tài liệu
 - code/: Thư mục chứa mã nguồn của dự án
-- data-mining-midterm-notes.docx: Tài liệu ghi chú về dự án
+- data-mining-midterm-notes.pdf: Tài liệu ghi chú về dự án
 - data-mining-midterm-slide.pdf: Slide thuyết trình về dự án
 - GlobalTerrorismCodebook.pdf: Tài liệu tham khảo về bộ mã dữ liệu khủng bố toàn cầu
-- MIDTERM PROJECT GUIDELINE.docx: Hướng dẫn thực hiện dự án giữa kỳ
+- MIDTERM PROJECT GUIDELINE.pdf: Hướng dẫn thực hiện dự án giữa kỳ
 
 ## Phạm vi
 Dự án giữa kỳ này yêu cầu sinh viên thực hiện toàn bộ quy trình (pipeline) của Phân tích dữ liệu. Thông qua quá trình đó, dự án hướng đến việc trả lời các câu hỏi được đưa ra dựa trên một bộ dữ liệu cho sẵn.

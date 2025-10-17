@@ -14,7 +14,7 @@
 
 ## Mô tả tài liệu
 - Source code: FE (React Native + Expo), BE (NodeJS + Express + MySQL)
-- BOOKWANDER_SRS_v1.2.docx: Tài liệu đặc tả yêu cầu phần mềm
+- BOOKWANDER_SRS_v1.2.pdf: Tài liệu đặc tả yêu cầu phần mềm
 - BOOKWANDER_TESTCASE_v1.xlsx: Tài liệu kiểm thử phần mềm
 - ad-diagram-and-mockup: Biểu đồ hoạt động usecase và phác thảo giao diện
 - sd-diagram: Biểu đồ tuần tự usecase
